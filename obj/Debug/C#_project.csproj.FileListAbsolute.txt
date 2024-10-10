@@ -1,0 +1,7 @@
+E:\C# Practice\C#_project_slu\C#_project\obj\Debug\C#_project.csproj.AssemblyReference.cache
+E:\C# Practice\C#_project_slu\C#_project\obj\Debug\C#_project.csproj.CoreCompileInputs.cache
+E:\C# Practice\C#_project_slu\C#_project\bin\Debug\C#_project.exe.config
+E:\C# Practice\C#_project_slu\C#_project\bin\Debug\C#_project.exe
+E:\C# Practice\C#_project_slu\C#_project\bin\Debug\C#_project.pdb
+E:\C# Practice\C#_project_slu\C#_project\obj\Debug\C#_project.exe
+E:\C# Practice\C#_project_slu\C#_project\obj\Debug\C#_project.pdb
